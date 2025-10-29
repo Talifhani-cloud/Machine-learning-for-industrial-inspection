@@ -51,11 +51,6 @@ All trained model weights are stored within the project directories:
 
 ---
 
-## 📊 Results Overview
-
-- **YOLOv8** achieved high mAP scores across all viewpoints, with *Side* and *Top* views performing best.  
-- **Faster R-CNN** demonstrated consistent detection with strong precision.  
-- The **classification model** achieved over **85% accuracy** on the validation dataset.
 
 ---
 
