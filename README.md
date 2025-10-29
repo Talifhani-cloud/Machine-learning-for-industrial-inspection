@@ -26,7 +26,7 @@ The project is developed **strictly for academic and research purposes**, provid
 
 ## 📦 Dataset
 
-The dataset used for both classification and detection can be accessed below:
+The original unprocessed dataset used for both classification and detection can be accessed below:
 
 👉 **[Download Original Dataset](https://drive.google.com/drive/folders/1WxkK6sdmGOCMZgY8wXui_Eav5Qov-9-C?usp=drive_link)**
 
